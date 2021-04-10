@@ -85,13 +85,11 @@ jobs:
         run: npm run all
 
       - uses: ./
+        if: "contains(github.event.head_commit.message, 'dry-run')"
         with:
-          mode: 'unique'
-          jsonPath: '$.african[*]'
-          jsonFields: 'text'
-          sourceFile: ./data/african_proverbs.json
-          targetPath: ./data
-          targetFile: african_proverbs_unique.json
+          mode: 'merge-fast-forward'
+          sourceBranch: 'feature'
+          targetBranch: 'master'
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4

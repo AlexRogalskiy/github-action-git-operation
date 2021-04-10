@@ -1,0 +1,27 @@
+name: 'Json Fields'
+description: 'Executes git operations (merge-fast-forward)'
+author: 'AlexRogalskiy'
+
+inputs:
+  sourceBranch:
+    description: 'Source branch name to merge from'
+    required: true
+  targetBranch:
+    description: 'Target branch name to merge to'
+    required: true
+  mode:
+    description: 'Operation mode (merge-fast-forward)'
+    required: true
+
+outputs:
+  changed:
+    description: 'Operation status'
+
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
+
+# Ref: https://haya14busa.github.io/github-action-brandings/
+branding:
+  icon: 'git-merge'
+  color: 'blue'

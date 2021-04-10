@@ -2,7 +2,7 @@
 
 > GitHub Action to execute git operations
 
-[![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-json--fields-blue?logo=github)](https://github.com/marketplace/actions/git-operation)
+[![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-git--operation-blue?logo=github)](https://github.com/marketplace/actions/git-operation)
 
 [![management: perfekt👌](https://img.shields.io/badge/management-perfekt👌-red.svg)](https://github.com/lekterable/perfekt)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -10,8 +10,8 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/github-action-git-operation/discussions)
 
-[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-git-operation.svg/?label=active+issues\&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-git-operation/?ref=repository-badge)
-[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16314/branches/347248/badge/grade.svg)](https://deepscan.io/dashboard#view=project\&tid=11946\&pid=16314\&bid=347248)
+[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-git-operation.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-git-operation/?ref=repository-badge)
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16642/branches/361087/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16642&bid=361087)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/github-action-git-operation)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/github-action-git-operation)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/github-action-git-operation?category=lines)
@@ -23,6 +23,7 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/github-action-git-operation/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/github-action-git-operation)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/github-action-git-operation)
+
 [![Renovatebot](https://badgen.net/badge/renovate/enabled/green?cache=300)](https://renovatebot.com/)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/github-action-git-operation)
@@ -30,7 +31,7 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-git-operation.svg)](https://david-dm.org/AlexRogalskiy/github-action-git-operation)
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-git-operation.svg)](https://david-dm.org/AlexRogalskiy/github-action-git-operation?type=dev)
 
-[![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-git-operation/branch/master/graph/badge.svg?token=MuiGSj3HFi)](https://codecov.io/gh/AlexRogalskiy/github-action-git-operation)
+[![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-git-operation/branch/master/graph/badge.svg?token=J6AuBQ4c0n)](https://codecov.io/gh/AlexRogalskiy/github-action-git-operation)
 [![CI](https://github.com/AlexRogalskiy/github-action-git-operation/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-git-operation/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-git-operation.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-git-operation)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/github-action-git-operation/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)

@@ -6,7 +6,8 @@ import { OperationMode, OperationStatus } from '../typings/enum-types'
 import { getOperation } from './routes/routes'
 
 import { getRequiredProperty } from './utils/properties'
-import { valueError } from './errors/errors'
+
+import { valueError } from './errors/value.error'
 
 const buildConfigOptions = (): ConfigOptions => {
     const sourceBranch = getRequiredProperty('sourceBranch')
@@ -42,4 +43,4 @@ export default async function run(): Promise<void> {
     }
 }
 
-void run()
+run()

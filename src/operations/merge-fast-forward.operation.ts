@@ -7,7 +7,7 @@ import { OperationStatus } from '../../typings/enum-types'
 
 import { boxenLogs, errorLogs, logs } from '../utils/loggers'
 
-import { valueError } from '../errors/errors'
+import { valueError } from '../errors/value.error'
 
 type RebaseArgs = {
     email: string

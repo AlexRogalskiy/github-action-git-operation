@@ -1,5 +1,5 @@
 name: 'Json Fields'
-description: 'Executes git operations (merge-fast-forward)'
+description: 'Automatically executes git merge operations (merge-fast-forward) by provided parameters'
 author: 'AlexRogalskiy'
 
 inputs:

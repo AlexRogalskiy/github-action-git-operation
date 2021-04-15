@@ -1,6 +1,6 @@
 # *Git Operation*
 
-> GitHub Action to execute git operations
+> GitHub Action to execute Git merge operations
 
 [![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-git--operation-blue?logo=github)](https://github.com/marketplace/actions/git-operation)
 

@@ -1,9 +1,8 @@
 {
     "name": "github-action-git-operation",
     "version": "0.0.0-dev",
-    "description": "Automatically execute git operations (merge-fast-forward)",
+    "description": "Automatically executes git merge operations (merge-fast-forward) by provided parameters",
     "main": "dist/index.js",
-    "types": "dist/index.d.ts",
     "license": "GPL-3.0",
     "private": true,
     "scripts": {

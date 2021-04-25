@@ -31,6 +31,7 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-git-operation.svg)](https://david-dm.org/AlexRogalskiy/github-action-git-operation)
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-git-operation.svg)](https://david-dm.org/AlexRogalskiy/github-action-git-operation?type=dev)
 
+[![codebeat badge](https://codebeat.co/badges/012aeba2-d6e1-4b25-be80-1fd1cc71fc8a)](https://codebeat.co/projects/github-com-alexrogalskiy-github-action-git-operation-master)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-git-operation.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-git-operation/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-git-operation.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-git-operation/context:javascript)
 [![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-git-operation/branch/master/graph/badge.svg?token=J6AuBQ4c0n)](https://codecov.io/gh/AlexRogalskiy/github-action-git-operation)

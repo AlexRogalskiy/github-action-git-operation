@@ -166,7 +166,7 @@ Running locally:
 
 ## *Licensing*
 
-***Json Fields*** is distributed under LGPL version 3 or later,
+***Git Operation*** is distributed under LGPL version 3 or later,
 \[[License](https://github.com/AlexRogalskiy/github-action-git-operation/blob/master/LICENSE)]. LGPLv3 is additional
 permissions on top of GPLv3.
 
@@ -174,7 +174,7 @@ permissions on top of GPLv3.
 
 ## *Authors*
 
-***Json Fields*** is maintained by the following GitHub team-members:
+***Git Operation*** is maintained by the following GitHub team-members:
 
 - [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
@@ -212,7 +212,7 @@ See also the list of [contributors][contributors] who participated in this proje
 
 ## *Development Support*
 
-Like ***Json Fields*** ? Consider buying me a coffee :)
+Like ***Git Operation*** ? Consider buying me a coffee :)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square\&logo=patreon\&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)

@@ -1,5 +1,5 @@
 {
-    "name": "GitHub action for Json Fields processing",
+    "name": "GitHub action for Git Operations",
     "entryPoints": ["./src", "./typings"],
     "externalPattern": ["./data"],
     "exclude": [
